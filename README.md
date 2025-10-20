@@ -1,6 +1,6 @@
 # Link Tree
 
-A custom link hub page built with vanilla HTML, CSS, and Lucide icons. Designed to match my personal brand and provide a clean, professional landing page for my social and project links.
+A custom link hub page built with HTML and CSS. Fast-loading, single-file landing page for portfolio and social links.
 
 ## Live Site
 [https://kyoriku.dev](https://kyoriku.dev)
@@ -12,16 +12,12 @@ A custom link hub page built with vanilla HTML, CSS, and Lucide icons. Designed 
 
 ## Features
 - Responsive design
-- Smooth animations and hover effects
-- Professional gradient background
-- Mobile-optimized
+- Animations and hover effects
+- Gradient background
 - Single-file deployment
 
 ## Why I Built This
 Instead of using a third-party service like Linktree, I built a custom solution to maintain full control over design, branding, and load times.
-
-## Deployment
-Deployed on Netlify with instant updates via Git integration.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=mit)](https://opensource.org/licenses/MIT)
