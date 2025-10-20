@@ -3,7 +3,7 @@
 A custom link hub page built with vanilla HTML, CSS, and Lucide icons. Designed to match my personal brand and provide a clean, professional landing page for my social and project links.
 
 ## Live Site
-[https://kyoriku.netlify.app](https://kyoriku.netlify.app/)
+[https://kyoriku.dev](https://kyoriku.dev)
 
 ## Built With
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
