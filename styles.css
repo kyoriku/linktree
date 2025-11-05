@@ -14,6 +14,13 @@ body {
   padding: 20px;
 }
 
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
   max-width: 680px;
   width: 100%;
@@ -76,7 +83,7 @@ body {
 
 .profile p {
   font-size: 16px;
-  color: #718096;
+  color: #4a5568;
   font-weight: 500;
 }
 
@@ -139,7 +146,7 @@ body {
 
 .link-description {
   font-size: 14px;
-  color: #718096;
+  color: #4a5568;
 }
 
 .arrow {
