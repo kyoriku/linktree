@@ -1,4 +1,11 @@
 const links = [
+    {
+    url: 'https://kyoriku.github.io/favicon-generator/',
+    icon: 'image',
+    title: 'Favicon Generator',
+    description: 'SVG to PNG conversion tool',
+    external: true
+  },
   {
     url: 'https://shipflow.netlify.app',
     icon: 'rocket',

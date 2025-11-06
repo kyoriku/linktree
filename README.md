@@ -2,7 +2,7 @@
 
 A custom landing page for portfolio and social links with clean design and smooth animations.
 
-**[Live Site](https://kyoriku.dev)** | **Tech Stack:** JavaScript, HTML, CSS
+**[Live Site](https://kyoriku.dev)** | **Tech Stack:** HTML, CSS, JavaScript
 
 **Key Features:** Responsive card layout • Animated hover effects • Gradient background • Social media integration
 
