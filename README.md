@@ -1,6 +1,6 @@
 # Personal Link Hub
 
-A custom landing page for portfolio and social links with clean design and smooth animations.
+A custom link hub page for portfolio and social links.
 
 **[Live Site](https://kyoriku.dev)** | **Tech Stack:** HTML, CSS, JavaScript
 
